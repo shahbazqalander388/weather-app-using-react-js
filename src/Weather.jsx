@@ -1,4 +1,4 @@
-import "./Weather.css"; 
+import "./App1.css" 
 import axios from 'axios'
 import { useState } from 'react'
 
